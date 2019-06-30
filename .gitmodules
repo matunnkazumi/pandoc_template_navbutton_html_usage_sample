@@ -1,0 +1,6 @@
+[submodule "pandoc_template_navbutton_html"]
+	path = pandoc_template_navbutton_html
+	url = https://github.com/matunnkazumi/pandoc_template_navbutton_html.git
+[submodule "material-design-icons"]
+	path = material-design-icons
+	url = https://github.com/google/material-design-icons
