@@ -26,3 +26,9 @@ npm run build
 このリポジトリは、[matunnkazumi/pandoc_template_navbutton_html](https://github.com/matunnkazumi/pandoc_template_navbutton_html)で公開しているPandocテンプレートとlessファイルを簡単に動作確認するためのものです。
 
 ご利用の際は、このリポジトリを参考に、ご自身のビルド手順に適宜組み込んでください。
+
+## サンプル
+このリポジトリをビルドした結果をnetlifyに置いておきます
+
+- [https://inspiring-pike-2f3551.netlify.com/](https://inspiring-pike-2f3551.netlify.com/)
+
