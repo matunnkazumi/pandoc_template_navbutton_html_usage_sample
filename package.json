@@ -13,6 +13,6 @@
     "url": "https://github.com/matunnkazumi/pandoc_template_navbutton_html_usage_sample.git"
   },
   "dependencies": {
-    "less": "^3.9.0"
+    "less": "^3.11.1"
   }
 }
